@@ -1,2 +1,2 @@
 [template.environment]
-GATSBY_MEDUSA_BACKEND_URL="URL of your Medusa Server"
+GATSBY_MEDUSA_BACKEND_URL="http://143.244.183.155:9000"
