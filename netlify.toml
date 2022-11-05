@@ -1,2 +1,2 @@
 [template.environment]
-GATSBY_MEDUSA_BACKEND_URL="http://143.244.183.155:9000"
+GATSBY_MEDUSA_BACKEND_URL="medusa-server-production.up.railway.app"
